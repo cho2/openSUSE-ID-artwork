@@ -79,9 +79,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="264.12297"
-     inkscape:cy="576.41079"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="253.93473"
+     inkscape:cy="679.05419"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -105,7 +105,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -150,19 +150,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9.13957024px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22848926"
-       x="9.488184"
+       x="104.79433"
        y="72.975586"
        id="text4697"><tspan
          sodipodi:role="line"
-         x="9.488184"
+         x="105.66744"
          y="72.975586"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.22848926"
-         id="tspan4699">Dapatkan bingkisan tahun baru dari openSUSE-ID </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.22848926"
+         id="tspan4703">Dapatkan bingkisan tahun baru dari openSUSE-ID untuk </tspan><tspan
          sodipodi:role="line"
-         x="9.488184"
-         y="84.715118"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.22848926"
-         id="tspan4703">untuk 20 pemenang yang beruntung</tspan></text>
+         x="105.66745"
+         y="84.400047"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.22848926"
+         id="tspan881">20 pemenang &amp; 1 SSD 120 GB untuk 1 orang yang beruntung </tspan></text>
     <g
        id="g4926"
        transform="translate(9.1392777,-9.152859)">
