@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="21cm"
+   height="29.699999cm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="board-elections-2020-4.svg"
+   inkscape:export-filename="/home/cho2/Dropbox/board-elections-2020-4.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2576642"
+     inkscape:cx="362.84608"
+     inkscape:cy="1018.2426"
+     inkscape:document-units="cm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="cm"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid168" />
+    <sodipodi:guide
+       position="40,289.0625"
+       orientation="-1,0"
+       id="guide252"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="50,200.77053"
+       orientation="-1,0"
+       id="guide1488"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="30,214.09852"
+       orientation="-1,0"
+       id="guide1577"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#173f4f;stroke-width:0.489915"
+       id="rect170"
+       width="210"
+       height="297"
+       x="0"
+       y="0"
+       ry="10" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="header &amp; footer">
+    <g
+       id="g645">
+      <g
+         id="g619">
+        <g
+           id="g598">
+          <path
+             style="display:inline;mix-blend-mode:normal;fill:#73ba25;fill-opacity:1;stroke:none;stroke-width:0.0934513;stroke-miterlimit:4;stroke-dasharray:0.560706, 0.560706;stroke-dashoffset:0"
+             d="m 4.999999,17.225986 9.441164,7.929583 -9.440918,7.929588 H 28.788782 V 17.225986 Z"
+             id="rect7839"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7849"
+             d="m 205,17.225986 -9.44117,7.929583 9.44092,7.929588 H 181.21121 V 17.225986 Z"
+             style="display:inline;mix-blend-mode:normal;fill:#73ba25;fill-opacity:1;stroke:none;stroke-width:0.0934513;stroke-miterlimit:4;stroke-dasharray:0.560706, 0.560706;stroke-dashoffset:0" />
+          <rect
+             style="display:inline;mix-blend-mode:normal;fill:#73ba25;fill-opacity:1;stroke:none;stroke-width:0.251923;stroke-miterlimit:4;stroke-dasharray:1.51154, 1.51154;stroke-dashoffset:0"
+             id="rect1177"
+             width="172.87779"
+             height="15.859173"
+             x="18.4739"
+             y="22.637917" />
+        </g>
+        <g
+           id="g593"
+           transform="translate(-5.3666854)">
+          <g
+             style="mix-blend-mode:normal;fill:#ffffff"
+             id="g7901"
+             transform="matrix(0.50613894,0,0,0.50613894,-30.440151,190.57168)">
+            <path
+               id="path835"
+               d="m 190.9315,-325.09984 c -2.31668,0 -3.59098,1.95859 -3.59098,3.31268 v 1.73829 c 0,1.99407 1.6292,3.22964 3.14006,3.22964 h 5.30357 c 0.66816,0 0.80805,0.43744 0.80805,0.80651 v 1.12179 c 0,0.11902 -0.0241,1.19644 -0.80805,1.19644 h -7.23344 c -0.71882,0 -1.23823,0.50008 -1.23823,1.18444 v 0.31007 c 0,0.68174 0.51941,1.1787 1.23823,1.1787 h 7.62662 c 1.99356,0 3.27995,-1.38698 3.27995,-3.53561 v -1.87559 c 0,-2.01755 -1.44964,-2.9196 -2.8888,-2.9196 h -5.21845 c -0.78561,0 -1.14161,-0.58935 -1.14161,-1.00592 v -1.03565 c 0,-0.652 0.43586,-1.02994 1.19801,-1.02994 h 5.77652 c 0.70838,0 1.24135,-0.50896 1.24135,-1.18182 v -0.30955 c 0,-0.67548 -0.54184,-1.18497 -1.26534,-1.18497 h -6.22714 z"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff;stroke-width:0.297636" />
+            <path
+               id="path837"
+               d="m 212.61725,-325.09984 c -0.68486,0 -1.23662,0.55646 -1.23662,1.24135 v 8.88086 c 0,0.7115 -0.58048,1.28311 -1.28311,1.28311 h -4.03148 c -0.70521,0 -1.28257,-0.57161 -1.28257,-1.28311 v -8.88086 c 0,-0.68489 -0.55646,-1.24135 -1.24081,-1.24135 h -0.38994 c -0.6948,0 -1.24135,0.54812 -1.24135,1.24135 v 9.21719 c 0,2.14598 1.6887,3.70259 4.01482,3.70259 h 4.31125 c 2.32296,0 4.01065,-1.5561 4.01065,-3.70259 v -9.21719 c 0,-0.69323 -0.54447,-1.24135 -1.23823,-1.24135 h -0.39255 z"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff;stroke-width:0.297636" />
+            <path
+               id="path839"
+               d="m 220.33495,-325.09984 c -2.31564,0 -3.59366,1.95859 -3.59366,3.31268 v 1.73829 c 0,1.99407 1.63233,3.22964 3.14423,3.22964 h 5.30209 c 0.66923,0 0.80965,0.43744 0.80965,0.80651 v 1.12179 c 0,0.11902 -0.0241,1.19644 -0.80965,1.19644 h -7.23672 c -0.71567,0 -1.2382,0.50008 -1.2382,1.18444 v 0.31007 c 0,0.68174 0.52253,1.1787 1.2382,1.1787 h 7.6293 c 1.9941,0 3.2862,-1.38698 3.2862,-3.53561 v -1.87559 c 0,-2.01755 -1.45381,-2.9196 -2.893,-2.9196 h -5.21845 c -0.78772,0 -1.14268,-0.58935 -1.14268,-1.00592 v -1.03565 c 0,-0.652 0.43589,-1.02994 1.19801,-1.02994 h 5.7798 c 0.70679,0 1.23769,-0.50896 1.23769,-1.18182 v -0.30955 c 0,-0.67548 -0.54134,-1.18497 -1.26796,-1.18497 h -6.22446 z"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff;stroke-width:0.297636" />
+            <path
+               id="path841"
+               d="m 232.52909,-325.09984 c -0.68748,0 -1.20688,0.50949 -1.20688,1.18497 v 11.71436 c 0,0.67236 0.50738,1.1787 1.17974,1.1787 h 9.33505 c 0.71882,0 1.23823,-0.49697 1.23823,-1.1787 v -0.31008 c 0,-0.68435 -0.51941,-1.18444 -1.23823,-1.18444 h -7.64537 v -2.98231 h 5.6021 c 0.71724,0 1.23823,-0.50322 1.23823,-1.18498 v -0.30954 c 0,-0.68489 -0.52099,-1.18182 -1.23823,-1.18182 h -5.6021 v -3.07161 h 7.25696 c 0.7162,0 1.23819,-0.49381 1.23819,-1.18182 v -0.30954 c 0,-0.68489 -0.52199,-1.18498 -1.23819,-1.18498 h -8.91956 z"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff;stroke-width:0.297636" />
+            <g
+               id="g851"
+               transform="matrix(0.52202366,0,0,0.52202366,-103.26376,-530.61448)"
+               style="fill:#ffffff">
+              <path
+                 id="path843"
+                 d="m 491.25,404.37 c -2.241,0 -4.065,1.744 -4.065,3.894 v 8.461 c 0,2.184 1.765,3.963 3.929,3.963 h 5.473 c 2.164,0 3.929,-1.779 3.929,-3.963 v -8.461 c 0,-2.149 -1.825,-3.894 -4.065,-3.894 z m -1.184,12.019 v -7.726 c 0,-0.906 0.744,-1.647 1.654,-1.647 h 4.264 c 0.89,0 1.648,0.758 1.648,1.647 v 7.726 c 0,0.912 -0.738,1.653 -1.648,1.653 h -4.296 c -0.912,0 -1.622,-0.725 -1.622,-1.653 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff" />
+              <path
+                 id="path845"
+                 d="m 512.91,404.27 c -1.578,0 -2.768,0.564 -3.723,1.026 -0.582,0.279 -1.086,0.52 -1.477,0.52 -0.177,0 -0.328,-0.08 -0.408,-0.211 l -0.364,-0.696 c -0.091,-0.183 -0.456,-0.541 -0.907,-0.541 h -0.541 c -0.52,0 -0.936,0.467 -0.936,1.037 v 21.461 c 0,0.673 0.531,1.203 1.203,1.203 h 0.468 c 0.667,0 1.209,-0.536 1.209,-1.203 v -7.121 c 0,-0.211 0.137,-0.439 0.276,-0.439 0.391,0 0.895,0.229 1.477,0.496 0.955,0.439 2.145,0.98 3.723,0.98 h 0.505 c 2.794,0 4.532,-1.597 4.532,-4.162 v -8.192 c 0,-2.526 -1.775,-4.157 -4.532,-4.157 h -0.505 z m -5.475,11.952 v -7.39 c 0,-1.021 0.798,-1.818 1.818,-1.818 h 3.997 c 1.021,0 1.818,0.798 1.818,1.818 v 7.39 c 0,1.003 -0.818,1.818 -1.818,1.818 h -3.997 c -1.001,0 -1.818,-0.815 -1.818,-1.818 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff" />
+              <path
+                 id="path847"
+                 d="m 526.04,404.37 c -2.241,0 -4.06,1.744 -4.06,3.894 v 8.398 c 0,2.178 1.768,4.025 3.854,4.025 h 5.647 c 0.698,0 1.203,-0.484 1.203,-1.141 v -0.37 c 0,-0.661 -0.505,-1.135 -1.203,-1.135 h -4.639 c -1.3,0 -1.986,-0.639 -1.986,-1.854 v -2.457 h 8.369 c 1.346,0 2.142,-0.821 2.142,-2.212 v -3.256 c 0,-2.149 -1.822,-3.894 -4.054,-3.894 h -5.273 z m -1.183,4.265 c 0,-0.907 0.713,-1.619 1.621,-1.619 h 4.396 c 0.906,0 1.613,0.712 1.613,1.619 v 2.622 h -7.631 c 10e-4,-0.342 10e-4,-2.622 10e-4,-2.622 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff" />
+              <path
+                 id="path849"
+                 d="m 547,404.27 c -1.573,0 -2.76,0.564 -3.718,1.021 -0.596,0.28 -1.105,0.525 -1.521,0.525 -0.183,0 -0.257,-0.023 -0.399,-0.269 l -0.331,-0.604 c -0.19,-0.382 -0.513,-0.575 -0.949,-0.575 h -0.465 c -0.562,0 -0.972,0.438 -0.972,1.037 v 14.077 c 0,0.667 0.527,1.203 1.206,1.203 h 0.465 c 0.667,0 1.211,-0.542 1.211,-1.203 v -10.65 c 0,-0.998 0.815,-1.818 1.813,-1.818 h 3.999 c 1.001,0 1.816,0.82 1.816,1.818 v 10.65 c 0,0.667 0.53,1.203 1.203,1.203 h 0.47 c 0.667,0 1.209,-0.542 1.209,-1.203 v -11.055 c 0,-2.526 -1.776,-4.157 -4.535,-4.157 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff" />
+            </g>
+            <g
+               id="g855"
+               transform="matrix(0.52202366,0,0,0.52202366,-103.26376,-530.61448)"
+               style="fill:#ffffff">
+              <path
+                 id="path853"
+                 d="m 667.46,415.23 c 1.218,0 2.188,0.99 2.188,2.229 0,1.257 -0.971,2.237 -2.198,2.237 -1.218,0 -2.208,-0.98 -2.208,-2.237 0,-1.238 0.99,-2.229 2.208,-2.229 z m -0.01,0.346 c -0.98,0 -1.782,0.842 -1.782,1.882 0,1.06 0.802,1.891 1.792,1.891 0.99,0.011 1.782,-0.831 1.782,-1.881 0,-1.05 -0.792,-1.892 -1.782,-1.892 z m -0.416,3.179 h -0.396 v -2.485 c 0.208,-0.03 0.406,-0.06 0.703,-0.06 0.377,0 0.624,0.079 0.772,0.188 0.149,0.108 0.229,0.276 0.229,0.515 0,0.326 -0.218,0.524 -0.485,0.604 v 0.021 c 0.218,0.039 0.366,0.237 0.416,0.604 0.06,0.387 0.118,0.535 0.158,0.614 h -0.416 c -0.06,-0.079 -0.119,-0.307 -0.168,-0.634 -0.06,-0.316 -0.218,-0.436 -0.535,-0.436 h -0.277 v 1.069 z m 0,-1.377 h 0.287 c 0.327,0 0.604,-0.118 0.604,-0.426 0,-0.218 -0.158,-0.436 -0.604,-0.436 -0.129,0 -0.218,0.01 -0.287,0.021 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff" />
+            </g>
+          </g>
+          <text
+             id="text936"
+             y="32.892033"
+             x="97.068489"
+             style="font-style:normal;font-weight:normal;font-size:7.52264px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.188066"
+             xml:space="preserve"><tspan
+               id="tspan934"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#ffffff;stroke-width:0.188066"
+               y="32.892033"
+               x="97.068489"
+               sodipodi:role="line">Board Election 2020</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g1130"
+         fill="#73ba25"
+         transform="matrix(0.100092,0,0,0.100092,64.46904,-39.257869)"
+         style="mix-blend-mode:normal">
+        <path
+           fill-rule="evenodd"
+           clip-rule="evenodd"
+           d="m 523.71,467.88 c -3.3113,-0.11926 -6.4507,1.0506 -8.8499,3.3008 -2.3993,2.2502 -3.8147,5.2984 -3.9147,8.5991 -0.2297,6.8207 5.1108,12.559 11.916,12.81 3.3095,0.1 6.4647,-1.0698 8.878,-3.32 2.4098,-2.2607 3.7953,-5.3107 3.9006,-8.5991 0.2297,-6.819 -5.109,-12.549 -11.93,-12.791 z m 2.0205,13.512 c -3.0307,0 -5.4791,-1.6398 -5.4791,-3.6498 0,-2.0292 2.4484,-3.6603 5.4791,-3.6603 3.0306,0 5.486,1.6311 5.486,3.6603 0,2.0099 -2.4571,3.6498 -5.486,3.6498 z m 28.798,14.729 c 0.0887,-0.0692 0.29521,-0.25105 0.2683,-0.41918 -0.68471,-4.2787 -7.0592,-25.029 -11.884,-30.019 -1.3294,-1.3592 -2.394,-2.6992 -4.5495,-3.9602 -17.454,-10.171 -58.863,-16.309 -60.803,-16.59 0,0 -0.19473,-0.0406 -0.3297,0.0912 -0.1048,0.10237 -0.1246,0.29991 -0.1246,0.29991 0,0 -0.1596,8.5798 -0.1841,9.5392 -4.2286,-1.4206 -34.972,-11.351 -63.791,-12.351 -24.44,-0.85939 -60.033,-4.0198 -107.2,24.98 l -1.3943,0.86815 c -22.19,13.841 -37.51,30.91 -45.518,50.739 -2.5116,6.2402 -5.8895,20.32 -2.5414,33.569 1.4417,5.7912 4.1304,11.61 7.7556,16.819 8.194,11.77 21.944,19.58 36.749,20.899 20.904,1.8696 36.733,-7.5188 42.363,-25.099 3.8708,-12.13 0,-29.928 -14.839,-39.007 -12.07,-7.3907 -25.049,-5.7106 -32.578,-0.7296 -6.5313,4.3303 -10.23,11.06 -10.165,18.451 0.1508,13.11 11.444,20.078 19.564,20.099 2.3589,0 4.7284,-0.41041 7.3995,-1.2803 0.9506,-0.28939 1.845,-0.64893 2.8307,-1.2593 l 0.3087,-0.18064 0.1947,-0.12978 -0.065,0.0386 c 1.8503,-1.261 2.964,-3.3113 2.964,-5.5106 0,-0.59981 -0.084,-1.2084 -0.2561,-1.8205 -0.9593,-3.32 -4.239,-5.3282 -7.638,-4.7091 l -0.4595,0.10874 -0.6209,0.18942 -0.9015,0.31043 c -1.8696,0.4595 -3.2692,0.49984 -3.5691,0.51037 -0.9506,-0.0614 -5.6246,-1.461 -5.6246,-6.5805 v -0.0702 c 0,-1.8801 0.7542,-3.199 1.1698,-3.9198 1.454,-2.28 5.4352,-4.5179 10.814,-4.0496 7.0593,0.61034 12.149,4.2303 15.52,11.06 3.1289,6.349 2.3098,14.159 -2.1099,19.88 -4.3899,5.6684 -12.205,8.0782 -22.598,6.9593 -10.481,-1.1593 -19.34,-7.1908 -24.303,-16.579 -4.8565,-9.1779 -5.1213,-20.059 -0.6858,-28.418 10.609,-20.029 30.649,-19.82 41.637,-17.921 16.26,2.8202 34.758,17.819 41.319,35.138 1.0593,2.7606 1.5995,4.9494 2.0713,6.9505 l 0.7085,2.9903 18.37,8.9692 c 0.39458,0.19266 0.52796,0.25778 0.6858,0.14034 0.18941,-0.14093 0.081,-0.52966 0.081,-0.52966 -0.114,-0.4104 -0.3806,-0.78924 -0.805,-5.9298 -0.3491,-4.5618 -1.0594,-17.051 5.2282,-23.24 2.4414,-2.4186 6.1613,-4.5776 9.099,-5.2686 12.04,-2.9412 26.159,-0.912 39.507,14.539 6.9102,7.98 10.279,11.619 11.97,13.249 0,0 0.38494,0.36349 0.5893,0.53142 0.22331,0.1835 0.36878,0.33789 0.6945,0.51914 0.55786,0.31042 22.954,10.621 22.954,10.621 0,0 0.26534,0.13182 0.4612,-0.11049 0.19362,-0.23953 0.01,-0.47879 0.01,-0.47879 -0.1491,-0.17013 -14.199,-18.328 -11.698,-33.279 1.9696,-11.909 11.447,-10.83 24.558,-9.3498 4.2794,0.49984 9.1516,1.0593 14.196,1.1716 14.084,0.0895 29.254,-2.5115 38.604,-6.6015 6.049,-2.629 9.9093,-4.3794 12.328,-6.5787 0.8699,-0.72084 1.3207,-1.8907 1.7907,-3.1499 l 0.3297,-0.83133 c 0.3911,-1.0207 0.9664,-3.171 1.219,-4.3496 0.1017,-0.51914 0.2208,-1.0274 -0.2087,-1.3592 -0.39265,-0.30337 -1.2944,0.24026 -1.2944,0.24026 -4.1058,2.4712 -14.369,7.1505 -23.965,7.3504 -11.914,0.24027 -36.054,-12.061 -38.555,-13.36 -1.6739,-3.9857 -3.3458,-7.9724 -5.0438,-11.948 17.27,11.379 31.594,17.668 42.559,18.638 12.207,1.0874 21.723,-5.5724 25.853,-8.3432 0.54064,-0.35944 1.0799,-0.76184 1.5756,-1.1486 z m -48.992,-16.369 c 0.1753,-4.7302 2.1554,-9.12 5.6141,-12.34 3.4603,-3.2306 7.9747,-4.9003 12.708,-4.7494 9.7602,0.34902 17.43,8.5886 17.095,18.338 -0.1841,4.7302 -2.1642,9.12 -5.6141,12.33 -3.4603,3.2499 -7.9642,4.9196 -12.719,4.76 -9.7497,-0.35954 -17.411,-8.5798 -17.084,-18.338 z"
+           id="Geeko" />
+        <g
+           id="g1128"
+           transform="matrix(1.7539,0,0,1.7539,-692,-166.47)">
+          <path
+             id="path1126"
+             fill="#73ba25"
+             d="m 667.46,415.23 c 1.218,0 2.188,0.99 2.188,2.229 0,1.257 -0.971,2.237 -2.198,2.237 -1.218,0 -2.208,-0.98 -2.208,-2.237 0,-1.238 0.99,-2.229 2.208,-2.229 z m -0.01,0.346 c -0.98,0 -1.782,0.842 -1.782,1.882 0,1.06 0.802,1.891 1.792,1.891 0.99,0.011 1.782,-0.831 1.782,-1.881 0,-1.05 -0.792,-1.892 -1.782,-1.892 z m -0.416,3.179 h -0.396 v -2.485 c 0.208,-0.03 0.406,-0.06 0.703,-0.06 0.377,0 0.624,0.079 0.772,0.188 0.149,0.108 0.229,0.276 0.229,0.515 0,0.326 -0.218,0.524 -0.485,0.604 v 0.021 c 0.218,0.039 0.366,0.237 0.416,0.604 0.06,0.387 0.118,0.535 0.158,0.614 h -0.416 c -0.06,-0.079 -0.119,-0.307 -0.168,-0.634 -0.06,-0.316 -0.218,-0.436 -0.535,-0.436 h -0.277 v 1.069 z m 0,-1.377 h 0.287 c 0.327,0 0.604,-0.118 0.604,-0.426 0,-0.218 -0.158,-0.436 -0.604,-0.436 -0.129,0 -0.218,0.01 -0.287,0.021 z" />
+        </g>
+      </g>
+    </g>
+    <rect
+       style="display:inline;mix-blend-mode:normal;fill:#21a4df;stroke-width:0.381144"
+       id="rect984"
+       width="154.78125"
+       height="19.216928"
+       x="27.609375"
+       y="45" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;display:inline;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="105.5461"
+       y="53.531082"
+       id="text968"><tspan
+         sodipodi:role="line"
+         x="105.5461"
+         y="53.531082"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan492">This is a regular election as defined in our Election Rules [1] so </tspan><tspan
+         sodipodi:role="line"
+         x="105.5461"
+         y="58.822746"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1834">the elected board member  will serve till the end of 2022</tspan></text>
+    <rect
+       style="display:inline;mix-blend-mode:normal;fill:#35b9ab;stroke-width:0.312538"
+       id="rect1630"
+       width="100"
+       height="20"
+       x="5"
+       y="230" />
+    <rect
+       style="display:inline;mix-blend-mode:normal;fill:#73ba25;stroke-width:0.312538"
+       id="rect1896"
+       width="100"
+       height="20"
+       x="106.375"
+       y="230" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="55.313972"
+       y="234.36084"
+       id="text1900"><tspan
+         sodipodi:role="line"
+         id="tspan1898"
+         x="55.313972"
+         y="234.36084"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583">To stand for a position in the openSUSE Board </tspan><tspan
+         sodipodi:role="line"
+         x="55.313972"
+         y="238.77057"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1902">please send an email to </tspan><tspan
+         sodipodi:role="line"
+         x="55.313972"
+         y="243.18028"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold Italic';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1910">opensuse-project@opensuse.org </tspan><tspan
+         sodipodi:role="line"
+         x="55.313972"
+         y="247.59001"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1908">and <tspan
+   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold Italic'"
+   id="tspan1912">election-officials@opensuse.org</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="156.43849"
+       y="234.3679"
+       id="text1924"><tspan
+         sodipodi:role="line"
+         x="156.43849"
+         y="234.3679"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1922">If a member would like to nominate another </tspan><tspan
+         sodipodi:role="line"
+         x="156.43849"
+         y="238.77763"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1945">member, please inform the Election Committee </tspan><tspan
+         sodipodi:role="line"
+         x="156.43849"
+         y="243.18735"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1963">and the officials will contact the nominee to ask </tspan><tspan
+         sodipodi:role="line"
+         x="156.43849"
+         y="247.59708"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1953">whether they would like to run as a Board candidate</tspan><tspan
+         sodipodi:role="line"
+         x="156.43849"
+         y="252.00681"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1939" /></text>
+    <rect
+       style="display:inline;mix-blend-mode:normal;fill:#73ba25;stroke:none;stroke-width:0.312538"
+       id="rect1971"
+       width="100"
+       height="20"
+       x="5"
+       y="253" />
+    <rect
+       style="display:inline;mix-blend-mode:normal;fill:#35b9ab;stroke-width:0.312538"
+       id="rect1973"
+       width="100"
+       height="20"
+       x="106.375"
+       y="253" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="55.313972"
+       y="257.37848"
+       id="text1985"><tspan
+         sodipodi:role="line"
+         x="55.313972"
+         y="257.37848"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan2012">Only openSUSE members are eligible to run for </tspan><tspan
+         sodipodi:role="line"
+         x="55.313972"
+         y="261.78821"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan2008">openSUSE Board openings in accordance with the </tspan><tspan
+         sodipodi:role="line"
+         x="55.313972"
+         y="266.19794"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan2020">Eligibility and Validity section of our Election</tspan><tspan
+         sodipodi:role="line"
+         x="55.313972"
+         y="270.60767"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan2010">Rules [1]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="156.3503"
+       y="261.78821"
+       id="text1997"><tspan
+         sodipodi:role="line"
+         x="156.3503"
+         y="261.78821"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan2044">The Election Committee [2] are hereby calling for </tspan><tspan
+         sodipodi:role="line"
+         x="156.3503"
+         y="266.19794"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan2036">Nominations &amp; Applications for the openSUSE Board</tspan><tspan
+         sodipodi:role="line"
+         x="156.3503"
+         y="270.60767"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan2042" /></text>
+    <rect
+       style="display:inline;mix-blend-mode:normal;fill:#21a4df;stroke:none;stroke-width:0.350627"
+       id="rect2061"
+       width="201.375"
+       height="12.5"
+       x="5"
+       y="275" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="105.55344"
+       y="280.17755"
+       id="text2071"><tspan
+         sodipodi:role="line"
+         x="105.55344"
+         y="280.17755"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan2069">[1] https://en.opensuse.org/openSUSE:Board_election_rules</tspan><tspan
+         sodipodi:role="line"
+         x="105.55344"
+         y="284.58728"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan2082">[2] Members: Ish Sookun, Edwin Zakaria and Ariez Vachha</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="text"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 32.534172,71.437499 V 166.6875"
+       id="path2084" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.75;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 32.005009,72.005009 42.588342,82.588342"
+       id="path2090" />
+    <circle
+       style="fill:#35b9ab;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path647"
+       cx="32.534172"
+       cy="72.534172"
+       r="2.284173" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.75;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 42.534172,83.343749 V 108.47917"
+       id="path2088" />
+    <circle
+       style="fill:#73ba25;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle1472"
+       cx="42.534172"
+       cy="82.534172"
+       r="2.284173" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.75;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 43.063336,106.62708 -10.583333,15.875"
+       id="path2092" />
+    <circle
+       style="fill:#73ba25;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle1474"
+       cx="42.534172"
+       cy="107.53417"
+       r="2.284173" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.75;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 32.401885,122.2375 11.906249,11.90625"
+       id="path2096" />
+    <circle
+       style="fill:#35b9ab;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle1476"
+       cx="32.534172"
+       cy="122.53417"
+       r="2.284173" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.75;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 42.534172,132.29166 v 29.10417"
+       id="path2100" />
+    <circle
+       style="fill:#73ba25;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle1478"
+       cx="42.534172"
+       cy="132.53418"
+       r="2.284173" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.75;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 32.005009,166.6875 10.583333,10.58333"
+       id="path2098" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.75;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 42.333333,161.39583 31.75,168.01041"
+       id="path2102" />
+    <circle
+       style="fill:#35b9ab;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle1480"
+       cx="32.534172"
+       cy="167.53418"
+       r="2.284173" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.75;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 42.534172,177.27083 V 214.3125"
+       id="path2086" />
+    <circle
+       style="fill:#73ba25;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle1482"
+       cx="42.534172"
+       cy="177.53418"
+       r="2.284173" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="39.602066"
+       y="74.083572"
+       id="text1492"><tspan
+         sodipodi:role="line"
+         id="tspan1490"
+         x="39.602066"
+         y="74.083572"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#35b9ab;stroke-width:0.264583">Phase 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#d2d5d8;stroke-width:0.264583"
+       x="49.602066"
+       y="84.083572"
+       id="text1496"><tspan
+         sodipodi:role="line"
+         id="tspan1494"
+         x="49.602066"
+         y="84.083572"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#73ba25;stroke-width:0.264583">15 November 2020</tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="89.375237"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#d2d5d8;stroke-width:0.264583"
+         id="tspan1498">   ‣ Announcement of the openSUSE Board Election 2020</tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="94.812218"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#d2d5d8;stroke-width:0.264583"
+         id="tspan1504">   ‣ Call for Nominations and Applications for Board candidacy</tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="100.2492"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#d2d5d8;stroke-width:0.264583"
+         id="tspan1506">       Membership drive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#ffc107;stroke-width:0.264583"
+       x="49.602066"
+       y="109.08357"
+       id="text1514"><tspan
+         sodipodi:role="line"
+         id="tspan1512"
+         x="49.602066"
+         y="109.08357"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#73ba25;stroke-width:0.264583">29 November 2020</tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="114.37524"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#ffc107;stroke-width:0.264583"
+         id="tspan1520">    <tspan
+   style="fill:#d2d5d8"
+   id="tspan1528">‣ Nominations and Applications for Board candidacy close</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="39.602066"
+       y="124.08357"
+       id="text1532"><tspan
+         sodipodi:role="line"
+         id="tspan1530"
+         x="39.602066"
+         y="124.08357"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#35b9ab;stroke-width:0.264583">Phase 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#73ba25;stroke-width:0.264583"
+       x="49.602066"
+       y="134.08994"
+       id="text1536"><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="134.08994"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#73ba25;stroke-width:0.264583"
+         id="tspan1542">30 November 2020</tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="139.38159"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#73ba25;stroke-width:0.264583"
+         id="tspan1557"><tspan
+           style="fill:#d2d5d8"
+           id="tspan1575">    ‣ Announcement of the final list of candidates </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="144.81859"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#d2d5d8;stroke-width:0.264583"
+         id="tspan1559">    ‣ Campaign begins  </tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="150.25557"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#d2d5d8;stroke-width:0.264583"
+         id="tspan1561">    ‣ Membership drive continues, opportunity to apply for openSUSE</tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="155.69255"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#d2d5d8;stroke-width:0.264583"
+         id="tspan1563">        Membership, but members will only be eligible to vote and not run</tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="160.98421"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#d2d5d8;stroke-width:0.264583"
+         id="tspan1565">        as a candidate</tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="166.27588"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#73ba25;stroke-width:0.264583"
+         id="tspan1567" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="39.602066"
+       y="169.08994"
+       id="text1581"><tspan
+         sodipodi:role="line"
+         id="tspan1579"
+         x="39.602066"
+         y="169.08994"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#35b9ab;stroke-width:0.264583">Phase 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#73ba25;stroke-width:0.264583"
+       x="49.602066"
+       y="179.08994"
+       id="text1585"><tspan
+         sodipodi:role="line"
+         id="tspan1583"
+         x="49.602066"
+         y="179.08994"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#73ba25;stroke-width:0.264583">15 December 2020</tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="184.38159"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#73ba25;stroke-width:0.264583"
+         id="tspan1587"><tspan
+           style="fill:#d2d5d8"
+           id="tspan1595">    ‣ Ballots open: Please cast your vote during this time</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="189.81859"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#d2d5d8;stroke-width:0.264583"
+         id="tspan1589">    ‣ Campaign continues</tspan></text>
+    <circle
+       style="fill:#73ba25;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle1597"
+       cx="42.534172"
+       cy="197.53418"
+       r="2.284173" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#73ba25;stroke-width:0.264583"
+       x="49.602066"
+       y="199.08994"
+       id="text1607"><tspan
+         sodipodi:role="line"
+         id="tspan1599"
+         x="49.602066"
+         y="199.08994"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#73ba25;stroke-width:0.264583">30 December 2020</tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="204.38159"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#d2d5d8;stroke-width:0.264583"
+         id="tspan1605">    ‣ Ballots close</tspan></text>
+    <circle
+       style="fill:#73ba25;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle1612"
+       cx="42.534172"
+       cy="212.53418"
+       r="2.284173" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#73ba25;stroke-width:0.264583"
+       x="49.602066"
+       y="214.08994"
+       id="text1618"><tspan
+         sodipodi:role="line"
+         id="tspan1614"
+         x="49.602066"
+         y="214.08994"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#73ba25;stroke-width:0.264583">31 December 2020</tspan><tspan
+         sodipodi:role="line"
+         x="49.602066"
+         y="219.38159"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#d2d5d8;stroke-width:0.264583"
+         id="tspan1622">    ‣ Announcement of results</tspan></text>
+  </g>
+</svg>
